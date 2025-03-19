@@ -34,9 +34,9 @@ namespace jurnalmod5_103022330036
         static void Main(string[] args)
         {
             PemrosesData data = new PemrosesData();
-            int nim = 6;
-            int nim2 = 7;
-            int nim3 = 8;
+            int nim = 10;
+            int nim2 = 30;
+            int nim3 = 22;
             data.DapatkanNilaiTerbesar(nim, nim2, nim3);
         }
 
